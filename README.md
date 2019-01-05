@@ -1,2 +1,2 @@
 # set-up
-install nltk by: pip isntall -U nltk
+pip isntall -U nltk
